@@ -28,7 +28,7 @@ jobs:
 
       - name: Run app
         run: |
-         python main.py
+          python main.py
 
       - name: Check syntax
         run: |
